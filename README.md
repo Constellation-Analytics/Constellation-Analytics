@@ -12,7 +12,7 @@ Hi, I'm Paul – a Data Analyst & Engineer helping people make smarter decisions
 
 ---
 
-## 🚀 What You’ll Find Here
+## 🌟 What You’ll Find Here
 
 - 🔍 **Data Analysis Projects** – Real-world datasets, EDA, visual insights  
 - 🛠️ **Automation Tools** – Scripts to clean, transform, and move data faster  
