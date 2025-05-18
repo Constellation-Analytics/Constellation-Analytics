@@ -39,7 +39,7 @@ Every data point is a star — when connected the right way, they reveal pattern
 ## 📬 Connect With Me
 
 - 🌐 Website: [constellationanalytics.com.au](http://constellationanalytics.com.au)  
-- 💼 LinkedIn: [[linkedin.com/in/paul-j-chapman](https://www.linkedin.com/in/paul-j-chapman/)](#)  
+- 💼 LinkedIn: [linkedin.com/in/paul-j-chapman/)](#) 
 - 📧 Email: paul@constellationanalytics.com.au  
 
 ---
