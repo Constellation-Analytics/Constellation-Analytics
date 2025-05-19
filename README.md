@@ -32,7 +32,7 @@ Hi, I'm Paul – a Data Analyst & Engineer helping people make smarter decisions
 
 ## 🌠 Why "Constellation"?
 
-Every data point is a star — when connected the right way, they reveal patterns, stories, and direction. That’s what I love doing.
+Every data point is like a star. When connected the right way, they reveal patterns, stories, and direction. That’s what I love doing.
 
 ---
 
