@@ -1,6 +1,6 @@
 # 🌌 Constellation Analytics
 
-Hi, I'm Paul – a Data Analyst & Engineer helping people make smarter decisions through data.  
+Hi, I'm Paul. A Data Analyst & Engineer helping people make smarter decisions through data.  
 **Constellation Analytics** is my personal projects and consulting space where I share practical, real-world data projects and tools.
 
 ---
