@@ -12,7 +12,7 @@ Hi, I'm Paul. A Data Analyst & Engineer helping people make smarter decisions th
 
 ---
 
-## 🌟 What You’ll Find Here
+## ❓ What You’ll Find Here (once its finished)
 
 - 🔍 **Data Analysis Projects** – Real-world datasets, EDA, visual insights  
 - 🛠️ **Automation Tools** – Scripts to clean, transform, and move data faster  
@@ -25,14 +25,14 @@ Hi, I'm Paul. A Data Analyst & Engineer helping people make smarter decisions th
 ## ⚙️ Tech Stack
 
 - **Languages**: Python, SQL, DAX, M (Power Query)  
-- **Tools**: Power BI, Excel, Jupyter, VS Code  
-- **Platforms**: Microsoft Fabric, Streamlit, Azure, GitHub
+- **Tools**: Power BI, Excel, Jupyter, VS Code 
+- **Platforms**: Microsoft Fabric, Streamlit, GitHub
 
 ---
 
 ## 🌠 Why "Constellation"?
 
-Every data point is like a star. When connected the right way, they reveal patterns, stories, and direction. That’s what I love doing.
+Every data point is like a star. When connected the right way, they reveal patterns, stories, and insights into unique ways of viewing the wold.
 
 ---
 
