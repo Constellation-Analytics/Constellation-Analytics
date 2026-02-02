@@ -38,7 +38,7 @@ Every data point is like a star. When connected the right way, they reveal patte
 
 ## 📬 Connect With Me
 
-- 🌐 Website: [constellationanalytics.com.au](http://constellationanalytics.com.au)  
+- 🌐 Website: [constellation-analytics.com](http://constellation-analytics.com)  
 - 💼 LinkedIn: [linkedin.com/in/paul-j-chapman](https://www.linkedin.com/in/paul-j-chapman)
 - 📧 Email: paul@constellationanalytics.com.au  
 
